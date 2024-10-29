@@ -2,12 +2,12 @@
   "WRITE_LOGS_TF": "True",
   "SEND_LOGS_TO_TEL": "True",
   "LOG_FILE_NAME": "log_file_name.log",
-  "TELEGRAM_BOT_TOKEN": "5937486943:AAG-of_DH9Rez8VuRSC4WTE8byTmoQ2ajyU",
-  "CHAT_ID": 785707791,
-  "PANEL_USERNAME": "xdpalad",
-  "PANEL_PASSWORD": "xdpalad",
-  "PANEL_DOMAIN": "panel.0d875e1c-8be1-4ea1.pw",
+  "TELEGRAM_BOT_TOKEN": "",
+  "CHAT_ID": ,
+  "PANEL_USERNAME": "",
+  "PANEL_PASSWORD": "",
+  "PANEL_DOMAIN": "",
   "TIME_TO_CHECK": 30,
-  "SERVER_NAME": "Panel youfast",
+  "SERVER_NAME": "",
   "USER_IP_LIMIT": 0
 }
